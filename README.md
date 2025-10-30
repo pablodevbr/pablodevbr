@@ -6,9 +6,9 @@ Welcome to my GitHub profile. I'm a developer passionate about exploring new tec
 
 ## Skills
 
-- **Blockchain & Web3:** Solidity, Smart Contracts, NFTs, DAOs
+- **Blockchain & Web3:** Solidity, Smart Contracts, NFTs, ERC20, ERC721, ERC1155
 - **Oracles:** Chainlink
-- **Languages:** Go
+- **Languages:** C#, Java, Javascript, Go
 
 ---
 
